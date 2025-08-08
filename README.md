@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joviyal Johns (Joby)
+# 👋 Hi, I'm Joviyal Johns (Joviee)
 
 💻 **Computer Engineering Student** | 🌐 **Web Development & Open Source Enthusiast**  
 ✈️ *Unvegero Curioso* — a curious traveller, always exploring new ideas.
@@ -14,10 +14,8 @@
 
 ---
 
-### 🛠 Skills & Tools  
-**Languages:** Python, Java, C, JavaScript, HTML, CSS  
-**Frameworks / Tools:** Git, Firebase, Node.js  
-**Interests:** AI/ML, Web Development, Innovative Projects  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
@@ -32,23 +30,20 @@
 
 ---
 
-### 📫 Connect with Me  
 
-<p align="center">
-  <a href="https://github.com/Joviee-e">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/joviyal-johns-96937433a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:johnjoviyal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/jov.iee_e/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/733541796222730260) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jov.iee_e/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/joviyal-johns-96937433a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnjoviyal@gmail.com) 
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Joviee-e&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Joviee-e&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joviee-e&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Joviee-e&icon=10&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
