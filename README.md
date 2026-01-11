@@ -7,7 +7,7 @@
 
 ### 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Computer Engineering** (2nd Year)  
-- 📚 GPA: **9.84** *(First Year)*  
+- 📚 GPA: **9.88** *(Second Year)*  
 - 💡 Passionate about **AI/ML, Web Development**, and building **real-world problem-solving projects**  
 - 🎨 Love **designing clean, aesthetic interfaces**  
 - 🎶 Sing, code, repeat — that’s my vibe
